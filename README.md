@@ -1,1 +1,3 @@
-"# batch-snippets" 
+# Batch Snippets
+
+Random collection of bat files.
